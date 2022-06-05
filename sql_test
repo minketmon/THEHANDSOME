@@ -1,0 +1,4 @@
+ select * from TBL_BOARD where bno>0  ;
+ 
+ 
+ select * from TBL_BOARD where bno = 5;
